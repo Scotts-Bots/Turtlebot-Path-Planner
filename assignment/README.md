@@ -1,8 +1,3 @@
-# Robotics-Assignment-2022
-A simulated surveillance turtle bot mapping and path planning project.
-Completed by Tristan Bookhan and Nico Jared Govindsamy in Early 2022.
-
-# INSTRUCTIONS
 If map.txt is not found in folder:
 1. In a normal python enviroment run ProcessMap.py and make sure test_mapUp2.png is there (this is required!),
 this will create map.txt.
